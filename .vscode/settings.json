@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "week5_project",
+            "connectString": "postgres://frwdbuts:MewC2IosQR4AY9taL8e_WgeuizuDTsCD@peanut.db.elephantsql.com/frwdbuts"
+        }
+    ]
+}
